@@ -1,8 +1,7 @@
-# Inżynierski projekt
 
 
-### UrzER - wypożyczalnia samochodów
-# w stylu Ubera
+# UrzER - wypożyczalnia samochodów
+## w stylu Ubera
 
 
 # Cele projektu
